@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    margin: 30px auto 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.menu {
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.menu li {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 50px;
+
+}
+
+.menu a {
+    color: #3D3D3D;
+    font-size: 16px;
+    text-decoration: none;
+    padding-bottom: 25px;
+
+}
+
+
+.menu a:hover {
+    border-bottom: 3px solid #46A358;
+
+}
+
+.header {
+    height: 53px;
+   
+  
+}
+
+.shop-now {
+    color: #ffff;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 20px;
+    text-transform: uppercase;
+    border-radius: 6px;
+    background: #46A358;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px 26px;
+}
+
+
+.lider {
+    color: #3D3D3D;
+    font-size: 68px;
+    font-weight: 900;
+    line-height: 70px;
+    text-transform: uppercase;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 auto;
+    padding-bottom: 5px;
+
+}
+
+.span {
+    color: #46A358;
+    font-size: 68px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 70px;
+    text-transform: uppercase;
+
+}
+
+.welcome {
+    color: #3D3D3D;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    display: inline-block;
+    padding-top: 68px;
+    padding-bottom: 7px;
+    margin: 0;
+   
+
+}
+
+.shop1 {
+    width: 530px;
+    color: #727272;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    display: inline-block;
+    padding-bottom: 44px;
+}
+
+.main {
+    margin-top: 12px;
+    background: linear-gradient(98deg, rgba(245, 245, 245, 0.50) -23.46%, rgba(245, 245, 245, 0.50) 107.51%);
+}
+
+
+.logo {
+    text-decoration: none;
+    width: 150px;
+    height: 34.3px;
+    padding: 7px 229px 7.3px 0;
+    display: inline-block;
+
+}
+
+.logo img {
+    max-width: 150px;
+}
+
+.planet {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+
+}
+
+.section {
+    display: inline-block;
+    vertical-align: top;
+    width: 693px;
+    padding: 0 0 0 40px;
+
+}
+
+.flower-picture {
+    width: 507px;
+    display: inline-block;
+    vertical-align: top;
+}
+ 
+.flower-picture img {
+    max-width: 507px;
+}
+
+
