@@ -155,20 +155,12 @@
 
 
 .post-item-read {
-
-    color: #3D3D3D;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 16px;
-    display: flex;
-    text-decoration: none;
-    margin: 9px 0 0 13px;
-    padding: 0;
-}
-
-.post-item-read:hover {
-    color: #46A358;
+    display: inline-flex; 
+    height: 17px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 3px;
+    flex-shrink: 0;
 }
 
 
@@ -180,10 +172,6 @@
     font-style: normal;
     font-weight: 500;
     line-height: 16px;
-}
-
-.post-item-read:hover svg path {
-    fill: #46A358;
 }
 
 
