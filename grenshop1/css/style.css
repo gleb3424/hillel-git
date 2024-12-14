@@ -101,8 +101,7 @@
 .wrapper {
     margin: 70px auto;
     width: 1200px;
-    display: flex;
-    flex-direction: column;
+
 }
 
 .container {
