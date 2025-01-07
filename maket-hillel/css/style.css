@@ -554,6 +554,38 @@
     fill: #46A358;
 }
 
+.discount {
+    position: absolute;
+    left: 0px;
+    top: 14px;
+    text-transform: uppercase;
+    background-color: #46A358;
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px;
+    height: 29px;
+    padding: 7px 8px 6px 9px;
+}
+
+.old-price {
+    color: #A5A5A5;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    margin: 0;
+    text-decoration: line-through;
+    padding-top: 5px ;
+}
+
+.price-flex {
+    display: flex;
+    padding: 6px 0 0 0;
+}
+
+
 
 .item-text {
     color: #3D3D3D;
